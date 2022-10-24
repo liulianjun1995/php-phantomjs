@@ -1,5 +1,5 @@
 {
-    "name": "hi-noikiy/php-phantomjs",
+    "name": "liulianjun1995/php-phantomjs",
     "description": "A PHP wrapper for loading pages through PhantomJS",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
